@@ -22,3 +22,4 @@ import CalculatorCore
 Just drag this file `CalculatorCore/CalculatorCore.swift` into your Xcode project. Since then this core is actually
 part of your project, you don't need the `import` statement.
 # hw2_calculator
+"# hw2_calculator" 
